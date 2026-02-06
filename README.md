@@ -11,6 +11,7 @@ Une application web premium présentant une agence fictive de voyages temporels.
 - **Responsive** - optimisé mobile et desktop
 
 ### Sections Principales
+- 🏠 **Hero** - Section héro avec fond vidéo et CTA
 - 🌍 **Destinations** - 3 cartes interactives avec modals détaillés
   - Paris 1889 (Belle Époque)
   - Crétacé -65M (Mésozoïque)
